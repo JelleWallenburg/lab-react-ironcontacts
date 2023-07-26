@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Contacts{
+  text-align:center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Image{
+  height:100px;
+}
